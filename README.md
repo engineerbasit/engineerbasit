@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Abdul Basit
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on chatbot development
-- 📫 You can reach me through basit.be18@iba-suk.edu.pk
+# Hi there, I am Abdul Basit 👋
+
+<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api?username=engineerbasit&theme=transparent_icons=true"/>
+
+<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineerbasit&layout=compact"/>
 
 <!---
 engineerbasit/engineerbasit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
