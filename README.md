@@ -21,9 +21,10 @@
 <h2 align="center">🏆 Github Stats</h2>
 
 <p align="center">
-<img align='left' width='47%' src="https://github-readme-stats.vercel.app/api?username=engineerbasit&theme=transparent_icons=true"/>
-<img align='left' width='47%'  src="https://github-readme-streak-stats.herokuapp.com?user=engineerbasit&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineerbasit&layout=compact" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=engineerbasit&theme=transparent_icons=true" width='45%' />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=engineerbasit&theme=dark" width='45%' />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineerbasit&layout=compact"/>
 </p>
 
 <!---
